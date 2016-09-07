@@ -4,7 +4,7 @@ Jquery toggle text on button &amp; toggle class on specified sections.
 ## Usage
 * Include this script below your Jquery reference
 
-``` <script type="text/javascript" src="../jquery.titlesequence.js"></script>```
+``` <script type="text/javascript" src="../jquery.togglebutton.js"></script>```
 
 ```javascript
 $('.my-toggle-button').on('click', function (e) {
